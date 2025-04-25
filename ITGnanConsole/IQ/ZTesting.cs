@@ -9,7 +9,7 @@ namespace ITGnanConsole.IQ
 {
     public class ZTesting
     {
-        public (string? toastMessage, string? inlineMessage) GetMessages(List<Message>? msgs)
+        public (string? toastMessage, string? inlineMessage) GetMessages(List<MessageItem>? msgs)
         {
             string? toastMessage = null;
             string? inlineMessage = null;
