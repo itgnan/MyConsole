@@ -14,7 +14,7 @@ namespace ITGnanConsole.IQ
 
             for (int i = 0; i < array.Length; i++)
             {
-                int j = rand.Next(0, i + 1); // Pick a random index
+                int j = rand.Next(0, i + 1);
 
                 // Swap elements
                 (array[i], array[j]) = (array[j], array[i]);
