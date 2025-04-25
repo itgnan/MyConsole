@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITGnanConsole", "ITGnanConsole\ITGnanConsole.csproj", "{D2CD7443-DF6D-4B4B-9881-D5E1BF44DA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CD7443-DF6D-4B4B-9881-D5E1BF44DA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CD7443-DF6D-4B4B-9881-D5E1BF44DA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CD7443-DF6D-4B4B-9881-D5E1BF44DA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CD7443-DF6D-4B4B-9881-D5E1BF44DA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A104855E-577F-40AA-985C-6174F0278C95}
+	EndGlobalSection
+EndGlobal
