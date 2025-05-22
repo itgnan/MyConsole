@@ -10,4 +10,9 @@ var appMessages = JsonSerializer.Deserialize<AppMessages>(inputJson);
 
 
 ZTesting zTesting = new ZTesting();
-var messages = zTesting.GetMessages(appMessages?.Message);
+//var messages = zTesting.GetMessages(appMessages?.Message);
+
+zTesting.test();
+
+ReadDataFromJson readDataFromJson = new ReadDataFromJson();
+readDataFromJson.ReadListFromJson();

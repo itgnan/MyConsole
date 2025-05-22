@@ -26,5 +26,10 @@ namespace ITGnanConsole.IQ
 
             return (toastMessage, inlineMessage);
         }
+
+        public void test()
+        {
+
+        }
     }
 }
